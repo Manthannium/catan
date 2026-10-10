@@ -15,7 +15,7 @@ A free online real-time multi-player implementation of the classic Settlers of C
 
 ## 🎮 How to Play
 
-1. **Play Now** → [https://catan-henna.vercel.app](https://catan-henna.vercel.app)
+1. **Play Now** → [https://my-catan-game.vercel.app](https://my-catan-game.vercel.app)
 2. **Create or Join** - One player creates a game and shares the 6-letter code
 3. **Setup Phase** - Each player places 2 settlements and 2 roads
 4. **Main Game** - Roll dice, collect resources, build, and trade
@@ -49,11 +49,11 @@ Open http://localhost:5173 in your browser.
 
 ## 🌐 Deployment
 
-**Live Game:** [https://catan-henna.vercel.app](https://catan-henna.vercel.app)
+**Live Game:** [https://my-catan-game.vercel.app](https://my-catan-game.vercel.app)
 
 | Component | Platform | URL |
 |-----------|----------|-----|
-| Frontend | Vercel | https://catan-henna.vercel.app |
+| Frontend | Vercel | https://my-catan-game.vercel.app |
 | Backend | Render | https://catan-server-rdrh.onrender.com/ |
 
 ### ⚠️ Free Tier Notice
