@@ -54,7 +54,7 @@ Open http://localhost:5173 in your browser.
 | Component | Platform | URL |
 |-----------|----------|-----|
 | Frontend | Vercel | https://catan-henna.vercel.app |
-| Backend | Render | https://catan-server-oc59.onrender.com |
+| Backend | Render | https://catan-server-rdrh.onrender.com/ |
 
 ### ⚠️ Free Tier Notice
 
